@@ -1,0 +1,14 @@
+layout_spectrum: 0.4448451
+typography_spectrum: 0.3809573
+color:
+  saturation: 0.2333307
+  lightness: 0.9901012
+  brandStrength: 0.2275452
+  rhythmicContrast: 0.4805017
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Explicateur
