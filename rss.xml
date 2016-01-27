@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Explicateur]]></title>
+        <description><![CDATA[Explicateur]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jan 2016 08:31:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Alejandro González Iñárritu is een regisseur met een serieel herkenbare stijl. De eerste vier films van de Mexicaanse regisseur, Amores Perros, 21 Grams, Babel en Biutiful, waren te herkennen aan de mozaïekstructuur. Deze films kenden meerdere verhaallijnen – verhaallagen – die schijnbaar los van elkaar stonden, maar op een gegeven moment bij elkaar kwamen en dan hun onderlinge samenhang lieten zien. Deze stijl is veel gekopieerd maar zelden zo perfect uitgevoerd als door González Iñárritu. </p>]]></description>
+            <link>http://1.bp.blogspot.com/-PJ728vWuaVI/VoF_mhmtO6I/AAAAAAAACc4/l3p1-2Uy7Qk/s1600/the_revenant_56156256_st_3_s-high.jpg</link>
+            <guid isPermaLink="false">6875d57d-3034-4fdf-adce-f6c8f713f71a</guid>
+            <pubDate>Wed, 27 Jan 2016 08:31:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
